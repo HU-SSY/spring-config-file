@@ -1,0 +1,5 @@
+config:
+  file:
+    app-name: samsung
+    profile: real
+    my-value: samsungRealValue

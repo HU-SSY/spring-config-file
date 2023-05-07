@@ -1,0 +1,5 @@
+config:
+  file:
+    app-name: samsung
+    profile: dev
+    my-value: samsungDevValue
