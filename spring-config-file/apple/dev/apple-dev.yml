@@ -2,4 +2,4 @@ config:
   file:
     app-name: apple
     profile: dev
-    my-value: appleDevValueFromPublic
+    my-value: appleDevValue
